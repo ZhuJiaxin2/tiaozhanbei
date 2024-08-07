@@ -1,0 +1,17 @@
+/pip
+/conda
+
+
+# data
+/challenge_data
+
+/others
+
+/ARIMA
+
+/challenge-code/challenge_cup_backend/static
+
+/challenge-code/challenge_cup_front/node_modules
+/challenge-code/challenge_cup_front/no-use
+
+__pycache__/
